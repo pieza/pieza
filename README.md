@@ -1,24 +1,13 @@
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pieza&show_icons=true&hide_border=true" />
+[![](https://visitor-badge.laobi.icu/badge?page_id=pieza.pieza)](https://visitor-badge.laobi.icu/badge?page_id=pieza.pieza)
+[![](https://img.shields.io/github/stars/pieza?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=pieza&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+[![](https://img.shields.io/github/followers/pieza?color=27da6b&logo=Handshake)](https://github.com/pieza?tab=followers)
 
-<br />
+<img src="https://github.com/pieza/pieza/blob/master/header.png" width="900">
 
-### Connect with me:
+## Stats
+<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=pieza&theme=material-palenight&hide_border=false" alt="pieza" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=pieza&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="pieza" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pieza&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="pieza" /></div>
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-
-
-[twitter]: https://twitter.com/pi3z4
-[instagram]: https://instagram.com/jose.ulloah
-[linkedin]: https://linkedin.com/in/josé-andrés-ulloa-hernández-076579153/
+## Throphies
+![](https://github-profile-trophy.vercel.app/?username=pieza&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
